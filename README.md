@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 BJUTAPP🎉
+
+<img src="./yxb.png" width = "300" align=center />
 
 <!--
 **bjutapp/bjutapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
